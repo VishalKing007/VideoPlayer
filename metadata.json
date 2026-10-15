@@ -1,0 +1,6 @@
+{
+  "name": "OmniPlayer Studio - Hybrid VLC & YouTube Media Player",
+  "description": "High-performance hybrid VLC and YouTube media player featuring local file access, 200% audio boost, 10-band equalizer, visual effects, frame-stepping, A-B loop, multi-theme customization, subtitles, and stream playback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
